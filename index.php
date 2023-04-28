@@ -3,7 +3,7 @@
 
 $var = 0;
 
-echo $var;
+echo $var."Juand";
 
 
 ?>
